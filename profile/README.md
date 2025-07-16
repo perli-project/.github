@@ -1,4 +1,4 @@
-# 🏞️ 정주行 (Jungju-Heng)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=🏞️정주行(Jungju-Heng))
 
 청년 맞춤형 지역 정주 정책 추천·신청 연계 플랫폼  
 2025년 제7회 K-디지털 트레이닝 해커톤 참가작 | **불만두 팀** 🚀
